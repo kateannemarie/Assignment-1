@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\bin\Debug\net6.0-windows\MsgBox_FullName.exe
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\bin\Debug\net6.0-windows\MsgBox_FullName.deps.json
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\bin\Debug\net6.0-windows\MsgBox_FullName.runtimeconfig.json
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\bin\Debug\net6.0-windows\MsgBox_FullName.dll
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\bin\Debug\net6.0-windows\MsgBox_FullName.pdb
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.Form1.resources
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.dll
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\refint\MsgBox_FullName.dll
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.pdb
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\MsgBox_FullName.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MsgBox_FullName\MsgBox_FullName\obj\Debug\net6.0-windows\ref\MsgBox_FullName.dll
